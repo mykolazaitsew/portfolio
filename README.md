@@ -13,22 +13,23 @@ A dynamic and visually engaging web experience that includes glowing cursors, da
 ## 📁 Project Structure
 
 ```
-assets/
-├── experience-assets/
-│   ├── score-space.png
-│   └── stoprukras.png
-├── buble.jpg
-├── dark_mode.svg
-├── light_mode.svg
-├── favicon.ico
+public/
+├── img/
+│ └── experience-assets/
+│ ├── score-space.png
+│ └── stoprukras.png
+│ ├── buble.jpg
+│ ├── dark_mode.svg
+│ ├── light_mode.svg
+│ └── favicon.ico
+├── index.html
+├── style.css
 
 src/
-├── components/
-│   ├── click-bubles.js        # Handles bubble effects on clicks
-│   ├── cursor-glow.js         # Controls glowing cursor
-│   └── darkmode.js            # Toggles dark/light mode
-├── index.html                 # Main HTML file
-├── style.css                  # Styles and animations
+└── components/
+├── click-bubles.js # Handles bubble effects on clicks
+├── cursor-glow.js # Controls glowing cursor
+└── darkmode.js # Toggles dark/light mode
 ```
 
 ## 🚀 Getting Started
