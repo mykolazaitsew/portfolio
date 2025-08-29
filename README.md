@@ -17,7 +17,7 @@ public/
 ├── img/
 │ └── experience-assets/
 │ ├── score-space.png
-│ ├── peak.png
+│ ├── peak.jpg
 │ └── stoprukras.png
 │ ├── buble.jpg
 │ ├── dark_mode.svg
